@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>BarberShop Pro</h3>
+            <h3>BarberReserve</h3>
             <p>Tu estilo es nuestra pasión. Reserva tu cita y experimenta el mejor servicio de barbería.</p>
           </div>
           
@@ -15,7 +15,7 @@ const Footer = () => {
             <h4>Contacto</h4>
             <p>📍 Calle Principal 123, Ciudad</p>
             <p>📞 (123) 456-7890</p>
-            <p>📧 info@barbershoppro.com</p>
+            <p>📧 info@barberreserve.com</p>
           </div>
           
           <div className="footer-section">
@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; 2024 BarberShop Pro. Todos los derechos reservados.</p>
+          <p>&copy; 2024 BarberReserve. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

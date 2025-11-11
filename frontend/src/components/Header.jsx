@@ -23,7 +23,7 @@ const Header = () => {
         <nav className="navbar">
           <div className="logo">
             <Link to="/">
-              💈 BarberShop Pro
+              💈 BarberReserve
             </Link>
           </div>
           <ul className="nav-links">

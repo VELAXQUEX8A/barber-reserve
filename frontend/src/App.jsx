@@ -24,7 +24,7 @@ function HomePage() {
         flexDirection: 'column'
       }}>
         <div style={{ fontSize: '3rem', marginBottom: '1rem' }}>💈</div>
-        <h2>Cargando BarberShop Pro...</h2>
+        <h2>Cargando BarberReserve...</h2>
         <p>Por favor espera un momento</p>
       </div>
     );
